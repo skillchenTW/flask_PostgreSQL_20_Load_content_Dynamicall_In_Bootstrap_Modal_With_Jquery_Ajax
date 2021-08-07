@@ -1,1 +1,2 @@
-# flask_PostgreSQL_20_Load_content_Dynamicall_In_Bootstrap_Modal_With_Jquery_Ajax
+#### flask_PostgreSQL_20_Load_content_Dynamicall_In_Bootstrap_Modal_With_Jquery_Ajax
+- Flask 使用Bootstrap Modal 開啟一個浮動訊息窗體採用JQuery AJAX 抓取Postgresql 資料庫內容
